@@ -10,7 +10,7 @@
 	- 注意：**目前最新版均为1.x稳定版，均依赖pytorch1.0及以上，安装使用`conda/pip install torch`**。
 - 模块
 	- 这是官方给出的核心模块的依赖关系。
-		- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190504221358945.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob3VjaGVuMTk5OA==,size_16,color_FFFFFF,t_70)
+		- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190504221358945.png)
 	- 暂时不理解没关系，用了几次就明白了，和Keras还是很类似的。
 - 快速入门
 	- 下面给出官方的快速入门代码
@@ -24,7 +24,7 @@
 			```
 	- 上面的代码我已经详细备注
 	- 不妨看一下运行结果
-		- ![]("https://img-blog.csdnimg.cn/20190504210237403.png")
+		- ![](https://img-blog.csdnimg.cn/20190504210237403.png)
 		- ![](https://img-blog.csdnimg.cn/20190504214436779.png)
 		- 可以看到，使用了ResNet18训练一轮后达到较低的损失较高的准确率（训练集上），由于没有使用GPU，一轮使用了1分30秒,使用GPU只花了7秒。
 - 关键步骤
