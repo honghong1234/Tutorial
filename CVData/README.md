@@ -82,5 +82,5 @@
 	- fastai是一个有趣的框架，更多的功能去探索吧。
 ## 补充说明
 - 本案例使用Fastai框架，这是基于PyTorch的一个上层框架，是2019年以来一个流行的选择，[官方文档地址](https://docs.fast.ai/)给出，目前没有中文文档。
-- 本案例的说明部分均基于官方文档，如果英文好的可直接通过上面的链接阅读文档。具体代码见[我的Github](https://github.com/luanshiyinyang/DeepLearning/tree/Fastai/CVData)，欢迎star或者fork。（开发环境为Jupyter）
+- 本案例的说明部分均基于官方文档，如果英文好的可直接通过上面的链接阅读文档。具体代码见[我的Github](https://github.com/luanshiyinyang/Tutorial/tree/Fastai/CVData)，欢迎star或者fork。（开发环境为Jupyter）
 - 博客同步至[个人博客网站](https://luanshiyinyang.github.io)，欢迎查看。
